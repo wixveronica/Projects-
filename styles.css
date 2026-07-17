@@ -92,24 +92,3 @@
   font-size: 40px;
   color: rgb(59, 65, 64);
 }
-
-footer {
-  background: linear-gradient(70deg, rgb(24, 24, 24), rgb(25, 29, 29));
-  padding: 36px 0;
-}
-
-footer li {
-  width: 80px;
-  height: 80px;
-  margin: 0 50px;
-}
-
-footer img {
-  width: 100%;
-  height: 100%;
-}
-
-footer ul {
-  display: flex;
-  justify-content: center;
-}
